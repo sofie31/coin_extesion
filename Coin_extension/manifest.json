@@ -1,0 +1,13 @@
+{
+	"name": "Coin Prices",
+	"version": "1.0.0",
+	"manifest_version" : 3,
+	"icons": {
+		"128": "logo.png"
+	},
+	"permissions": ["activeTab"],
+    "action": {
+        "default_popup": "popup.html",
+        "default_title": "Coin_ext"
+}
+}
